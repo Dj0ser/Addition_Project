@@ -12,7 +12,6 @@ public class AddingNumbers {
     int intNumber2 = input.nextInt();
 
     System.out.println(intNumber1 + intNumber2);
-
     }
 }
 
